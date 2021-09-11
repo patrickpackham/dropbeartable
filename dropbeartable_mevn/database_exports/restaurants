@@ -1,0 +1,1 @@
+[{"_id":{"$oid":"6116777f947e141d56673bb7"},"name":"The Pourhouse","total_seats":20,"open_time":{"$date":"2020-01-01T09:00:00Z"},"close_time":{"$date":"2020-01-01T19:00:00Z"},"__v":0},{"_id":{"$oid":"611677bcab415a1d71655ee0"},"name":"The Belmore","total_seats":20,"open_time":{"$date":"2020-01-01T09:00:00Z"},"close_time":{"$date":"2020-01-01T19:00:00Z"},"__v":0}]

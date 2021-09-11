@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14b8b832-f09f-496a-8c0e-b936e234b186" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1wi2RCRxoW66KtfrKaP4PXV83lV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14b8b832-f09f-496a-8c0e-b936e234b186" name="Default Changelist" comment="" />
+      <created>1628927077467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628927077467</updated>
+      <workItem from="1628927079185" duration="3543000" />
+      <workItem from="1629070962150" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="639" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1629070962074">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="639" y="384" key="com.intellij.ide.util.TipDialog/-1680.23.1680.1027/0.23.1920.1057/1920.134.1440.877@0.23.1920.1057" timestamp="1629070962074" />
+    <state x="12" y="27" width="1902" height="1047" maximized="true" key="dock-window-1" timestamp="1628928742535">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="12" y="27" width="1902" height="1047" maximized="true" key="dock-window-1/-1680.23.1680.1027/0.23.1920.1057/1920.134.1440.877@0.23.1920.1057" timestamp="1628928742535" />
+    <state x="2020" y="234" width="1240" height="677" key="dock-window-1/-1680.23.1680.1027/0.23.1920.1057/1920.134.1440.877@1920.134.1440.877" timestamp="1628927516202" />
+    <state x="2305" y="324" width="670" height="676" key="search.everywhere.popup" timestamp="1628927461752">
+      <screen x="1920" y="134" width="1440" height="877" />
+    </state>
+    <state x="2305" y="324" width="670" height="676" key="search.everywhere.popup/-1680.23.1680.1027/0.23.1920.1057/1920.134.1440.877@1920.134.1440.877" timestamp="1628927461752" />
+  </component>
+</project>
